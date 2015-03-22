@@ -1,13 +1,13 @@
 ==================================================================
-###Getting and Cleaning Data Course Project
-Version 1.0
+##Getting and Cleaning Data Course Project
+###Version 1.0
 ==================================================================
-Origin of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-Course website: https://class.coursera.org/getdata-012
-Data before manipulation: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+####Origin of the data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+####Course website: https://class.coursera.org/getdata-012
+####Data before manipulation: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 ==================================================================
 ###R Packages Needed:
-* Dplyr
+####* Dplyr
 ==================================================================
 ###Instructions for use:
 
